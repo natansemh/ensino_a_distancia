@@ -27,12 +27,12 @@ foram: criptografia de senhas, enviar e-mails com PHP, enviar imagens.
 <img src="screenshots/cadastrar-usuarios.png">
 
 <h2>Tela Relatórios</h2>
-<img src="screenshots/cadastrar-usuarios.png">
+<img src="screenshots/relatorios.png">
 
-<h2>Tela Loja de Cursos = PAINÉL USUÁRIO PADRÃO</h2>
+<h2>Tela Loja de Cursos - PAINÉL USUÁRIO PADRÃO</h2>
 <img src="screenshots/loja-cursos.png">
 
-<h2>Tela Meus Cursos = PAINÉL USUÁRIO PADRÃO</h2>
+<h2>Tela Meus Cursos - PAINÉL USUÁRIO PADRÃO</h2>
 <img src="screenshots/meus-cursos.png">
 
 <h3>Banco de Dados</h3>
@@ -47,7 +47,7 @@ Senha: josemaria<br>
 Status: Administrador</p>
 
 <p>Usuario 2: Maria Jose Filha
-Email: mariajose@gmail.com
+Email: mariajose@gmail.com<br>
 Senha: mariajose<br>
 Status: Usuário Padrão</p>
 
