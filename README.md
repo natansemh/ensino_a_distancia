@@ -46,7 +46,7 @@ Email: josemaria@gmail.com<br>
 Senha: josemaria<br>
 Status: Administrador</p>
 
-<p>Usuario 2: Maria Jose Filha
+<p>Usuario 2: Maria Jose Filha<br>
 Email: mariajose@gmail.com<br>
 Senha: mariajose<br>
 Status: Usuário Padrão</p>
